@@ -1,7 +1,7 @@
 {
   "name": "quotebot",
   "version": "1.0.0",
-  "description": "POC for Spot Quote Bot",
+  "description": "Spot Quote Bot",
   "main": "index.js",
   "engines": {
     "node": "14.15.1",
